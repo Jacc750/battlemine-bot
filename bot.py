@@ -121,4 +121,4 @@ async def on_member_remove(ctx, *, member):
     fmt = '{0.mention} è uscito/è stato kickato dal server.'
     await ctx.send_message(channel, fmt.format(member, member.server))
 
-bot.run(token)
+bot.run('NzM2ODc3ODg2ODI0MzgyNTA0.Xx1NAg.cr2HZ_j_E-w3mNSJhVBXeSNK-FY')
